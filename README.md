@@ -45,5 +45,6 @@ I'm a final-year Computer Science student passionate about Artificial Intelligen
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mehveshshabbir&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=mehveshshabbir&limit=5&theme=merko&combine_all_yearly_contributions=true)
+
 

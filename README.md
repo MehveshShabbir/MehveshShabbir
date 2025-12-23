@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mehvesh Shabbir  
  **AI Engineer | Computer Vision Enthusiast | Full-Stack Developer**  
- **Founder & CEO of VCouture** – AI-powered Virtual Try-On & Ad Creation Platform 
+ **Founder of VCouture** – AI-powered Virtual Try-On & Ad Creation Platform 
 
 
 # 💫 About Me:

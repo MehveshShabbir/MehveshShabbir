@@ -34,8 +34,8 @@ I'm a final-year Computer Science student passionate about Artificial Intelligen
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mehveshshabbir&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mehveshshabbir&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mehveshshabbir&theme=merko&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=0)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mehveshshabbir&theme=merko&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehveshshabbir&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
